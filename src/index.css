@@ -1,0 +1,27 @@
+.loginwrapper{
+    width: 50%;
+    margin:auto;
+}
+
+.loginwrapper h2{
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .loginwrapper {
+      width:100% ;
+      padding: 10px;
+    }
+  }
+
+  .details-wrapper{
+    margin: 20px;
+  }
+
+  .CardWrapper{
+    margin-top: "20px";
+    margin-bottom: "20px";
+    display: flex;
+    justify-content: space-around;
+  }
+  
